@@ -1,0 +1,30 @@
+*{
+	background-color: grey;
+}
+form{
+	width: 40%;
+	background-color: whitesmoke;
+margin: 0 auto;
+height: 500px;
+padding: 20px;
+}
+input{
+	display: block;
+	padding: 10px;
+	background-color: aliceblue;
+	width: 98%;
+	font-size: 16px;
+	
+}
+label{
+	background-color: whitesmoke;
+	font-size: 20px;
+}
+h3{
+	color: black;
+	font-size: 30px;
+	padding: 30px;
+}
+h2{
+	padding: 30px;
+}
